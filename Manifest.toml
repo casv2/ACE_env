@@ -1698,11 +1698,6 @@ git-tree-sha1 = "320228915c8debb12cb434c59057290f0834dbf6"
 uuid = "83775a58-1f1d-513f-b197-d71354ab007a"
 version = "1.2.11+18"
 
-[[Zmethod]]
-deps = ["Distributed", "Distributions", "JuLIP", "LinearAlgebra"]
-uuid = "cc8286c8-f523-42d7-8adc-8a07b417e07a"
-version = "0.1.0"
-
 [[Zstd_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg"]
 git-tree-sha1 = "6f1abcb0c44f184690912aa4b0ba861dd64f11b9"
