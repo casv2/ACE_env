@@ -2,7 +2,6 @@
 
 [[ACE]]
 deps = ["BenchmarkTools", "Combinatorics", "ForwardDiff", "InteractiveUtils", "JSON", "JuLIP", "LinearAlgebra", "NeighbourLists", "Parameters", "Printf", "ProgressMeter", "QuadGK", "Random", "Reexport", "Requires", "SparseArrays", "StaticArrays", "Test", "ZipFile"]
-path = "/opt/julia/share/site/dev/ACE"
 uuid = "3e8ccfd2-c8b0-11ea-32f1-f3a5990fd77a"
 version = "0.8.2"
 
@@ -611,7 +610,6 @@ version = "0.52.0"
 
 [[GenSPGL]]
 deps = ["Arpack", "JLD", "JOLI", "LinearAlgebra", "MAT", "Nullables", "Printf", "Test"]
-path = "/opt/julia/share/site/dev/GenSPGL"
 uuid = "46767539-6b09-4d43-90af-09e8ecbe3fb9"
 version = "0.7.2"
 
@@ -681,7 +679,6 @@ version = "0.1.1"
 
 [[IPFitting]]
 deps = ["ASE", "BenchmarkTools", "DataFrames", "FileIO", "GLMNet", "HDF5", "InteractiveUtils", "IterativeSolvers", "JSON", "JuLIP", "LinearAlgebra", "LowRankApprox", "Pkg", "PrettyTables", "Printf", "ProgressMeter", "PyCall", "Random", "Reexport", "Roots", "StaticArrays", "Statistics", "StatsBase", "StringDistances"]
-path = "/opt/julia/share/site/dev/IPFitting"
 uuid = "3002bd4c-79e4-52ce-b924-91256dde4e52"
 version = "0.4.1"
 
@@ -821,7 +818,6 @@ version = "1.2.0"
 
 [[JuLIP]]
 deps = ["AlgebraicMultigrid", "Calculus", "CommonSubexpressions", "DelimitedFiles", "Dierckx", "ForwardDiff", "FunctionWrappers", "JSON", "LineSearches", "LinearAlgebra", "MacroTools", "NeighbourLists", "Optim", "Printf", "Reexport", "SparseArrays", "StaticArrays", "SuiteSparse", "Test", "ZipFile"]
-path = "/opt/julia/share/site/dev/JuLIP"
 uuid = "945c410c-986d-556a-acb1-167a618e0462"
 version = "0.10.2"
 
@@ -1704,7 +1700,6 @@ version = "1.2.11+18"
 
 [[Zmethod]]
 deps = ["Distributed", "Distributions", "JuLIP", "LinearAlgebra"]
-path = "/opt/julia/share/site/dev/Zmethod"
 uuid = "cc8286c8-f523-42d7-8adc-8a07b417e07a"
 version = "0.1.0"
 
